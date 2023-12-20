@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f9c7fe0-978e-4ce2-8279-f21a7be5c731" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/Callback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/DebitCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/PaymentPlatform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n2exercici1/Paypal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/ConverterDollars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/ConverterEuros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/ListItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici1/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702241462015</updated>
       <workItem from="1702241463064" duration="2042000" />
-      <workItem from="1703025867959" duration="4325000" />
+      <workItem from="1703025867959" duration="8753000" />
     </task>
     <servers />
   </component>
